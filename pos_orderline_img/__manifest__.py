@@ -9,10 +9,10 @@
     'depends': ['point_of_sale'],
     'assets': {
         'point_of_sale.assets': [
-            'pos_orderline_image/static/src/css/order_line_image.css',
+            'pos_orderline_img/static/src/css/order_line_image.css',
         ],
         'web.assets_qweb': [
-            'pos_orderline_image/static/src/xml/**/*',
+            'pos_orderline_img/static/src/xml/**/*',
         ],
     },
     'images': ['static/description/banner.png'],
