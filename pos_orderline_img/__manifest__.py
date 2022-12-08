@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'POS Orderline Image',
-    'version': '15.0.0.0',
+    'version': '15.0.0.1',
     'summary': 'POS Orderline Image',
     'category': 'Sales/Point Of Sale',
     'author': 'Amr Gaber',
@@ -15,7 +15,7 @@
             'pos_orderline_img/static/src/xml/**/*',
         ],
     },
-    'images': ['static/description/banner.png'],
+    'images': ['static/description/banner.jpg'],
     'license': 'LGPL-3',
     'installable': True,
     'application': True,
