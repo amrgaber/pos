@@ -25,6 +25,7 @@
 .pos .order .orderline .pos_product_image{
     float:left;
     margin:auto;
+    margin-right:10px;
 }
 .pos .order {
     padding-top: 0px !important;
